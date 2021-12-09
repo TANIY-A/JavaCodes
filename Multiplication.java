@@ -66,6 +66,7 @@ public void multiplication(int[][] matrix1,int[][] matrix2,int[][] pdt,int row,i
     else{
         System.out.println("Multipllication is not possible");
     }
+        sc.close();
 
 
     }
